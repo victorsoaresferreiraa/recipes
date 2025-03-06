@@ -12,7 +12,7 @@ Este é um projeto Django para gerenciar receitas. O projeto utiliza o Poetry pa
 ### 1. Clone o repositório
 
 ```sh
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/victorsoaresferreiraa/recipes.git
 cd seurepositorio
 
 ## Instale as dependências
